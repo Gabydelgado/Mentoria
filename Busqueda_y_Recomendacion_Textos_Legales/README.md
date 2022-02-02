@@ -15,3 +15,5 @@ Para poder utilizar la libreria elegida para el procesamiento de texto (NLTK), h
 import nltk
 nltk.download()
 ~~~
+
+Por ultimo se debe descomprimir el archivo .rar
